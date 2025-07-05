@@ -1,0 +1,338 @@
+{
+    "Động vật": [
+        {
+            "từ": "cat",
+            "nghĩa": "con mèo",
+            "điểm": 2,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "dog",
+            "nghĩa": "con chó",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "từ": "elephant",
+            "nghĩa": "con voi",
+            "điểm": 1,
+            "lịch sử": [
+                false,
+                false
+            ]
+        },
+        {
+            "từ": "tiger",
+            "nghĩa": "con hổ",
+            "điểm": 4,
+            "lịch sử": [
+                true,
+                true
+            ]
+        }
+    ],
+    "Thời tiết": [
+        {
+            "từ": "rain",
+            "nghĩa": "mưa",
+            "điểm": 5,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "sunny",
+            "nghĩa": "nắng",
+            "điểm": 2,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "storm",
+            "nghĩa": "bão",
+            "điểm": 0,
+            "lịch sử": [
+                false
+            ]
+        },
+        {
+            "từ": "cloudy",
+            "nghĩa": "nhiều mây",
+            "điểm": 1,
+            "lịch sử": [
+                false,
+                false
+            ]
+        }
+    ],
+    "Màu sắc": [
+        {
+            "từ": "red",
+            "nghĩa": "màu đỏ",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "blue",
+            "nghĩa": "màu xanh dương",
+            "điểm": 4,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "yellow",
+            "nghĩa": "màu vàng",
+            "điểm": 2,
+            "lịch sử": [
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "từ": "green",
+            "nghĩa": "màu xanh lá",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        }
+    ],
+    "Trường học": [
+        {
+            "từ": "teacher",
+            "nghĩa": "giáo viên",
+            "điểm": 5,
+            "lịch sử": [
+                true,
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "student",
+            "nghĩa": "học sinh",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "pen",
+            "nghĩa": "cây bút",
+            "điểm": 1,
+            "lịch sử": [
+                false
+            ]
+        },
+        {
+            "từ": "notebook",
+            "nghĩa": "quyển vở",
+            "điểm": 2,
+            "lịch sử": [
+                true
+            ]
+        }
+    ],
+    "Gia đình": [
+        {
+            "từ": "mother",
+            "nghĩa": "mẹ",
+            "điểm": 5,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "father",
+            "nghĩa": "cha",
+            "điểm": 4,
+            "lịch sử": [
+                true
+            ]
+        },
+        {
+            "từ": "sister",
+            "nghĩa": "chị/em gái",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "brother",
+            "nghĩa": "anh/em trai",
+            "điểm": 2,
+            "lịch sử": [
+                false
+            ]
+        }
+    ],
+    "Thể thao": [
+        {
+            "từ": "soccer",
+            "nghĩa": "bóng đá",
+            "điểm": 4,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "basketball",
+            "nghĩa": "bóng rổ",
+            "điểm": 3,
+            "lịch sử": [
+                false,
+                false
+            ]
+        },
+        {
+            "từ": "tennis",
+            "nghĩa": "quần vợt",
+            "điểm": 1,
+            "lịch sử": [
+                false
+            ]
+        },
+        {
+            "từ": "swimming",
+            "nghĩa": "bơi lội",
+            "điểm": 3,
+            "lịch sử": [
+                true
+            ]
+        }
+    ],
+    "Trái cây": [
+        {
+            "từ": "apple",
+            "nghĩa": "táo",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "banana",
+            "nghĩa": "chuối",
+            "điểm": 2,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "orange",
+            "nghĩa": "cam",
+            "điểm": 4,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "grape",
+            "nghĩa": "nho",
+            "điểm": 1,
+            "lịch sử": [
+                false
+            ]
+        }
+    ],
+    "Cơ thể": [
+        {
+            "từ": "head",
+            "nghĩa": "đầu",
+            "điểm": 4,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "arm",
+            "nghĩa": "cánh tay",
+            "điểm": 2,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "leg",
+            "nghĩa": "chân",
+            "điểm": 3,
+            "lịch sử": [
+                true
+            ]
+        },
+        {
+            "từ": "eye",
+            "nghĩa": "mắt",
+            "điểm": 5,
+            "lịch sử": [
+                true,
+                true
+            ]
+        }
+    ],
+    "Đồ ăn": [
+        {
+            "từ": "rice",
+            "nghĩa": "cơm",
+            "điểm": 5,
+            "lịch sử": [
+                true,
+                true
+            ]
+        },
+        {
+            "từ": "noodle",
+            "nghĩa": "mì",
+            "điểm": 3,
+            "lịch sử": [
+                true,
+                false
+            ]
+        },
+        {
+            "từ": "bread",
+            "nghĩa": "bánh mì",
+            "điểm": 2,
+            "lịch sử": [
+                false,
+                false
+            ]
+        },
+        {
+            "từ": "meat",
+            "nghĩa": "thịt",
+            "điểm": 4,
+            "lịch sử": [
+                true
+            ]
+        }
+    ]
+}
